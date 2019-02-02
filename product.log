@@ -1,0 +1,17 @@
+2017-03-05-main-INFO -root      :Employee record successfully inserted
+2017-03-05-main-INFO -root      :Employee record successfully inserted
+2017-03-05-main-INFO -root      :Employee record successfully inserted
+2017-03-05-main-INFO -root      :Employee record successfully inserted
+2017-03-05-main-INFO -root      :Employee record successfully inserted
+2017-03-05-main-ERROR-root      :ORA-08002: sequence PROD_SEQ200.CURRVAL is not yet defined in this session
+
+2017-03-05-main-INFO -root      :Employee record successfully inserted
+2017-03-05-main-INFO -root      :Employee record successfully inserted
+2017-03-05-main-INFO -root      :Employee record successfully inserted
+2017-03-05-main-INFO -root      :Employee record successfully inserted
+2017-03-05-main-INFO -root      :Employee record successfully inserted
+2017-03-05-main-INFO -root      :Employee record successfully inserted
+2017-03-05-main-INFO -root      :Employee record successfully inserted
+2017-03-05-main-ERROR-root      :ORA-02289: sequence does not exist
+
+2017-03-05-main-INFO -root      :Employee record successfully inserted
